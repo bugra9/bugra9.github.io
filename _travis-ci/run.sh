@@ -13,4 +13,4 @@ git config --global user.email "travis@travis-ci.org"
 git config --global user.name "Travis CI"
 git add .
 git commit --message "[BOT] Makale için otomatik ayarlamalar yapıldı. [skip ci]"
-git push https://${GH_TOKEN}@github.com/ubuntu-tr/ubuntu-tr.github.io.git HEAD:master
+git push https://${GH_TOKEN}@github.com/bugra9/bugra9.github.io.git HEAD:master
