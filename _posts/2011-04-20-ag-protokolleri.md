@@ -1,16 +1,27 @@
 ---
-title: "Ağ Protokolleri"
-date: 2011-04-20 02:11
-categories: "k5"
-tags: ["Sudo 30. Sayı","ağ","ağ protokolü","telnet","TCP","SMTP","SNMP","FTP","NNTP","HTTP"]
-permalink: "ag-protokolleri"
-summary: ""
-image: "1.jpg"
-author: "Aysel Aksu"
+title: Ağ Protokolleri 2
+summary: ''
+image: 1.jpg
+date: '2011-04-20 02:11'
+permalink: ag-protokolleri
+categories: k5
+tags:
+  - 16.04.1
+  - ağ protokolü
+  - ağ
+  - FTP
+  - HTTP
+  - NNTP
+  - SMTP
+  - SNMP
+  - Sudo 30. Sayı
+  - TCP
+  - telnet
+author: Aysel Aksu
 ---
 ## Giriş
 
-Hepimizin de bildiği gibi iletişim, yaşamımızın ayrılmaz bir parçasıdır. Nasıl ki birbirimizi anlayabilmek, hayatımızı sürdürebilmek, karşılıklı anlaşabilmek için belirli iletişim yöntemlerine ihtiyaç duyuyorsak, bilgisayarlar da birbirleri ile iletişim kurma ihtiyacı duymaktadırlar. Peki, bu iletişimi ne ile yapıyorlar? Bilgisayarlar birbirleri ile anlaşabilmek, ortak birimler kullanabilmek ve veri aktarımı yapabilmek için, belirli bir kurallar topluluğuna ihtiyaç duymaktadırlar. İşte bu kurallar topluluğu protokolleri oluşturmaktadır.
+Hepimizin de bildiği gibi iletişim, yaşamımızın ayrılmaz bir parçasıdır. Nasıl ki birbirimizi anlayabilmek, hayatımızı sürdürebilmek, karşılıklı anlaşabilmek için belirli iletişim yöntemlerine ihtiyaç duyuyorsak, bilgisayarlar da birbirleri ile iletişim kurma ihtiyacı duymaktadırlar. Peki, bu iletişimi ne ile yapıyorlar? Bilgisayarlar birbirleri ile anlaşabilmek, ortak birimler kullanabilmek ve veri aktarımı yapabilmek için, belirli bir kurallar topluluğuna ihtiyaç duymaktadırlar. İşte bu kurallar topluluğu protokolleri oluşturmaktadır. 2
 
 ## AĞ PROTOKOLLERİ
 
