@@ -1,5 +1,5 @@
 ---
-title: Ağ Protokolleri 2
+title: Ağ Protokolleri 3
 summary: ''
 image: 1.jpg
 date: '2011-04-20 02:11'
@@ -9,6 +9,7 @@ tags:
   - 16.04.1
   - ağ protokolü
   - ağ
+  - arayüz
   - FTP
   - HTTP
   - NNTP
@@ -21,7 +22,7 @@ author: Aysel Aksu
 ---
 ## Giriş
 
-Hepimizin de bildiği gibi iletişim, yaşamımızın ayrılmaz bir parçasıdır. Nasıl ki birbirimizi anlayabilmek, hayatımızı sürdürebilmek, karşılıklı anlaşabilmek için belirli iletişim yöntemlerine ihtiyaç duyuyorsak, bilgisayarlar da birbirleri ile iletişim kurma ihtiyacı duymaktadırlar. Peki, bu iletişimi ne ile yapıyorlar? Bilgisayarlar birbirleri ile anlaşabilmek, ortak birimler kullanabilmek ve veri aktarımı yapabilmek için, belirli bir kurallar topluluğuna ihtiyaç duymaktadırlar. İşte bu kurallar topluluğu protokolleri oluşturmaktadır. 2
+Hepimizin de bildiği gibi iletişim, yaşamımızın ayrılmaz bir parçasıdır. Nasıl ki birbirimizi anlayabilmek, hayatımızı sürdürebilmek, karşılıklı anlaşabilmek için belirli iletişim yöntemlerine ihtiyaç duyuyorsak, bilgisayarlar da birbirleri ile iletişim kurma ihtiyacı duymaktadırlar. Peki, bu iletişimi ne ile yapıyorlar? Bilgisayarlar birbirleri ile anlaşabilmek, ortak birimler kullanabilmek ve veri aktarımı yapabilmek için, belirli bir kurallar topluluğuna ihtiyaç duymaktadırlar. İşte bu kurallar topluluğu protokolleri oluşturmaktadır. 23
 
 ## AĞ PROTOKOLLERİ
 
